@@ -1,2 +1,4 @@
 # Latihan2
 LatihanPython  Langkah - langkah pycharm  Buka pycharm Pilih new project Setelah muncul project kosong baru, buat file python baru Masukan kode seperti di bawah a=input("masukan nilai a:") b=input("masukan nilai b:") print("variable a= ,a") print("variable b= ,b") print("hasil penggabungan {0}&amp;{1}=%a" .format(a,b) %(a=b))  Konversi nilai variable a=int(a) b=int(b) print("hasil penjumlahan {0}+{1}=%d" .format(a,b) %(a+b)) print("hasil pembagian {0}/{1}=%a" .format(a,b) %(a/b)) print ("hallo") Run kode tersebut hasilnya akan muncul seperti ini masukan nilai a=60  masukan nilai a:55 masukan nilai b:88  variable a= ,a  variable b= ,b  hasil penggabungan 55&amp;88='605'  hasil penjumlahan 55+88=143  hasil pembagian 55/88=0.625  Process finished with exit code 0
+
+![2019-11-05 (2)](https://user-images.githubusercontent.com/57079848/68190541-30eb6080-ffe0-11e9-9d04-9d715945dcba.png)
